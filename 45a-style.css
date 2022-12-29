@@ -1,0 +1,29 @@
+body{
+    background: white;
+    font-family: arial;
+}
+@media screen and (max-width:1200px){
+    body{
+        background:pink;
+        font-size: 100px;
+    }
+}
+@media screen and (max-width:1000px){
+    body{
+        background:lightblue;
+        font-size: 70px;
+    }
+}
+@media screen and (max-width:720px){
+    body{
+        background: orange;
+        font-size: 40px;
+    }
+}
+@media screen and (max-width:550px){
+    body{
+        background:red;
+        font-size: 25px;
+    }
+}
+
